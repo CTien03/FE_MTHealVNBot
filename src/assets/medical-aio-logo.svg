@@ -1,0 +1,23 @@
+<svg viewBox="0 0 400 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="200" cy="100" r="90" fill="#ffffff" stroke="#0066cc" stroke-width="4"/>
+  
+  <!-- Heartbeat line -->
+  <path d="M120 100 L150 100 L165 70 L180 130 L195 100 L280 100" 
+        stroke="#ff4444" 
+        stroke-width="4" 
+        fill="none"/>
+  
+  <!-- Text AIO -->
+  <text x="200" y="115" 
+        font-family="Arial, sans-serif" 
+        font-size="48" 
+        font-weight="bold" 
+        text-anchor="middle" 
+        fill="#0066cc">AIO</text>
+  
+  <!-- Medical cross symbol -->
+  <path d="M310 85 L310 115 M295 100 L325 100" 
+        stroke="#0066cc" 
+        stroke-width="4"/>
+</svg>
